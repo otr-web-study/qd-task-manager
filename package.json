@@ -1,6 +1,6 @@
 {
   "homepage": "https://otr-web-study.github.io/qd-task-manager/",
-  "name": "task-manager",
+  "name": "qd-task-manager",
   "version": "0.1.0",
   "private": true,
   "scripts": {
