@@ -15,6 +15,7 @@ const routes = [
     name: 'tasks',
     component: () => import('../views/TasksView.vue'),
   },
+  { path: '/:catchAll(.*)*', redirect: { name: 'home' } },
 ];
 
 const router = new VueRouter({
