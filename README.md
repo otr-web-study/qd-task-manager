@@ -26,4 +26,4 @@ npm run lint
 
 ### Project published
 
-- https://otr-web-study.github.io/qd-task-manager/
+- https://unique-taffy-6d0df4.netlify.app/
